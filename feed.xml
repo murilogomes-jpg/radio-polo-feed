@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Teste técnico do Rádio Polo (será removido)</title>
+      <guid isPermaLink="false">radio-polo-teste-1791933214857</guid>
+      <pubDate>Tue, 13 Oct 2026 23:13:34 GMT</pubDate>
+      <description><![CDATA[<p>Teste técnico de publicação. Este episódio será removido.</p>]]></description>
+      <content:encoded><![CDATA[<p>Teste técnico de publicação. Este episódio será removido.</p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-trailer-1.mp3" length="784941" type="audio/mpeg"/>
+      <itunes:duration>00:00:49</itunes:duration>
+
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://murilogomes-jpg.github.io/radio-polo-feed/capa-programa.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo: estreia nesta quarta, às 7h de Manaus</title>
       <guid isPermaLink="false">radio-polo-trailer</guid>
       <pubDate>Tue, 13 Oct 2026 20:49:23 GMT</pubDate>
