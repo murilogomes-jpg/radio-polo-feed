@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Rádio Polo nº 3: Sexta-feira, 16 de outubro de 2026</title>
+      <guid isPermaLink="false">radio-polo-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 10:40:30 GMT</pubDate>
+      <description><![CDATA[<p><b>Rádio Polo, edição número três: sexta-feira, 16 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>KTM inaugura fábrica em Manaus com dez modelos e prevê dobrar a produção em 2027</li><li>Fim da escala 6x1: regras valem 60 dias após a promulgação da emenda e jornada chega a 40 horas em 14 meses</li><li>Super Porto Verde, em Itacoatiara, embarca cerca de 27 mil toneladas de milho para o Marrocos</li><li>Cieam cria Comissão de Relações Trabalhistas para apoiar as indústrias associadas</li><li>Procon Manaus: menor preço da gasolina comum sobe 30 centavos e chega a R$ 7,09</li><li>Operação Farma fiscaliza farmácias de Manaus que exigem CPF para dar desconto</li><li>Siscomex esclarece quando é preciso autorização para mercadoria em trânsito aduaneiro</li></ul><p>Fontes nacionais: Rede Onda Digital, BNC Amazonas, Tudo de Motos, AutoData.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></description>
+      <content:encoded><![CDATA[<p><b>Rádio Polo, edição número três: sexta-feira, 16 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>KTM inaugura fábrica em Manaus com dez modelos e prevê dobrar a produção em 2027</li><li>Fim da escala 6x1: regras valem 60 dias após a promulgação da emenda e jornada chega a 40 horas em 14 meses</li><li>Super Porto Verde, em Itacoatiara, embarca cerca de 27 mil toneladas de milho para o Marrocos</li><li>Cieam cria Comissão de Relações Trabalhistas para apoiar as indústrias associadas</li><li>Procon Manaus: menor preço da gasolina comum sobe 30 centavos e chega a R$ 7,09</li><li>Operação Farma fiscaliza farmácias de Manaus que exigem CPF para dar desconto</li><li>Siscomex esclarece quando é preciso autorização para mercadoria em trânsito aduaneiro</li></ul><p>Fontes nacionais: Rede Onda Digital, BNC Amazonas, Tudo de Motos, AutoData.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-2026-10-16.mp3" length="8513200" type="audio/mpeg"/>
+      <itunes:duration>00:08:52</itunes:duration>
+
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/images/2026/10/capa-2026-10-16.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo nº 2: Quinta-feira, 15 de outubro de 2026</title>
       <guid isPermaLink="false">radio-polo-2026-10-15</guid>
       <pubDate>Thu, 15 Oct 2026 10:40:09 GMT</pubDate>
