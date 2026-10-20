@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Rádio Polo nº 5: Terça-feira, 20 de outubro de 2026</title>
+      <guid isPermaLink="false">radio-polo-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 10:40:08 GMT</pubDate>
+      <description><![CDATA[<p><b>Rádio Polo, edição número cinco: terça-feira, 20 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Suframa recebe até sexta-feira cerca de 27 auditores do Confaz para conhecer o controle da Zona Franca</li><li>CMA CGM anunciou na sexta-feira sobretaxa de 150 euros por contêiner de 20 pés do Norte da Europa para Manaus</li><li>Águas de Manaus já forneceu mais de 210 mil litros de água a aeronaves do Ibama e da FAB contra incêndios</li><li>Dirigentes do Cieam recebem amanhã, às 11h45, o Título de Cidadão do Amazonas na Aleam</li><li>Duimp: granel por via marítima migrou para a nova declaração, e anuência da Suframa pode ser registrada nela</li><li>CNI: mais de um terço das indústrias que buscaram crédito de longo prazo não conseguiu financiamento</li></ul><p>Fontes nacionais: Jornal Estado de Minas, Portal Hortolândia.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></description>
+      <content:encoded><![CDATA[<p><b>Rádio Polo, edição número cinco: terça-feira, 20 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Suframa recebe até sexta-feira cerca de 27 auditores do Confaz para conhecer o controle da Zona Franca</li><li>CMA CGM anunciou na sexta-feira sobretaxa de 150 euros por contêiner de 20 pés do Norte da Europa para Manaus</li><li>Águas de Manaus já forneceu mais de 210 mil litros de água a aeronaves do Ibama e da FAB contra incêndios</li><li>Dirigentes do Cieam recebem amanhã, às 11h45, o Título de Cidadão do Amazonas na Aleam</li><li>Duimp: granel por via marítima migrou para a nova declaração, e anuência da Suframa pode ser registrada nela</li><li>CNI: mais de um terço das indústrias que buscaram crédito de longo prazo não conseguiu financiamento</li></ul><p>Fontes nacionais: Jornal Estado de Minas, Portal Hortolândia.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-2026-10-20.mp3" length="7660564" type="audio/mpeg"/>
+      <itunes:duration>00:07:59</itunes:duration>
+
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/images/2026/10/capa-2026-10-20.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo nº 4: Segunda-feira, 19 de outubro de 2026</title>
       <guid isPermaLink="false">radio-polo-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 10:40:24 GMT</pubDate>
