@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Rádio Polo nº 6: Quarta-feira, 21 de outubro de 2026</title>
+      <guid isPermaLink="false">radio-polo-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 11:10:22 GMT</pubDate>
+      <description><![CDATA[<p><b>Rádio Polo, edição número seis: quarta-feira, 21 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Bombeiros registram alta de mais de 455% nos incêndios do Amazonas em 2026, em reunião no Cieam</li><li>Transpetro avança na construção de 18 barcaças no estaleiro Bertolini, em Manaus</li><li>Gol vai encerrar voos diretos entre Manaus e Boa Vista em novembro, por causa do combustível</li><li>Cieam marca Congresso de ESG para a primeira semana de junho de 2027, no Studio 5</li><li>Análise do jornal O Polo vê efeitos diferentes do fim da escala 6x1 sobre portos e logística</li></ul><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></description>
+      <content:encoded><![CDATA[<p><b>Rádio Polo, edição número seis: quarta-feira, 21 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Bombeiros registram alta de mais de 455% nos incêndios do Amazonas em 2026, em reunião no Cieam</li><li>Transpetro avança na construção de 18 barcaças no estaleiro Bertolini, em Manaus</li><li>Gol vai encerrar voos diretos entre Manaus e Boa Vista em novembro, por causa do combustível</li><li>Cieam marca Congresso de ESG para a primeira semana de junho de 2027, no Studio 5</li><li>Análise do jornal O Polo vê efeitos diferentes do fim da escala 6x1 sobre portos e logística</li></ul><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-2026-10-21.mp3" length="7783026" type="audio/mpeg"/>
+      <itunes:duration>00:08:06</itunes:duration>
+
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/images/2026/10/capa-2026-10-21.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo nº 5: Terça-feira, 20 de outubro de 2026</title>
       <guid isPermaLink="false">radio-polo-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 10:40:08 GMT</pubDate>
