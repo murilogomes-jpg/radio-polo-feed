@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Rádio Polo nº 9: Segunda-feira, 26 de outubro de 2026</title>
+      <guid isPermaLink="false">radio-polo-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 10:40:15 GMT</pubDate>
+      <description><![CDATA[<p><b>Rádio Polo, edição número nove: segunda-feira, 26 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Antaq concluiu análise de todos os avisos de cobrança da taxa de seca, com aprovações condicionadas e negativas</li><li>Dragagem entre Manaus e Itacoatiara deu ganho de 1,2 metro de profundidade no ponto crítico, diz diretor-geral da Antaq</li><li>Sindarma cobra dragagem permanente e combate à pirataria nos rios que abastecem Manaus</li><li>Prospera MEI prevê perdão de dívidas e teto de R$ 140 mil em 2028; Amazonas tem mais de 133 mil MEIs</li><li>Sebrae AM realiza o Conexão SebraeLab na sexta-feira, dia 30, com palestras gratuitas e nova aceleradora de startups</li></ul><p>Fontes nacionais: Voe News.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></description>
+      <content:encoded><![CDATA[<p><b>Rádio Polo, edição número nove: segunda-feira, 26 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Antaq concluiu análise de todos os avisos de cobrança da taxa de seca, com aprovações condicionadas e negativas</li><li>Dragagem entre Manaus e Itacoatiara deu ganho de 1,2 metro de profundidade no ponto crítico, diz diretor-geral da Antaq</li><li>Sindarma cobra dragagem permanente e combate à pirataria nos rios que abastecem Manaus</li><li>Prospera MEI prevê perdão de dívidas e teto de R$ 140 mil em 2028; Amazonas tem mais de 133 mil MEIs</li><li>Sebrae AM realiza o Conexão SebraeLab na sexta-feira, dia 30, com palestras gratuitas e nova aceleradora de startups</li></ul><p>Fontes nacionais: Voe News.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-2026-10-26.mp3" length="5357609" type="audio/mpeg"/>
+      <itunes:duration>00:05:35</itunes:duration>
+
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/images/2026/10/capa-2026-10-26.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo nº 8: Sexta-feira, 23 de outubro de 2026</title>
       <guid isPermaLink="false">radio-polo-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 10:40:15 GMT</pubDate>
