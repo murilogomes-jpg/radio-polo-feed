@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Rádio Polo nº 10: Terça-feira, 27 de outubro de 2026</title>
+      <guid isPermaLink="false">radio-polo-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 10:40:27 GMT</pubDate>
+      <description><![CDATA[<p><b>Rádio Polo, edição número dez: terça-feira, 27 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Empresas de navegação avaliam voltar à Justiça contra a Antaq por causa da sobretaxa da seca</li><li>Flextronics deve investir quase R$ 53 milhões para produzir rádios automotivos em Manaus, com 92 vagas</li><li>Suframa aprova projetos da Brudden, Interpack e Ferro Rebelo no Polo Industrial</li><li>Diebold Nixdorf investiu cerca de R$ 12 milhões na fábrica de Manaus, informou a Suframa após visita</li><li>Receita e Comitê Gestor do IBS criam equipe dedicada à Zona Franca na reforma tributária</li><li>Dólar chegou a R$ 5,60 e Bolsa teve circuit breaker; importadores sentem o impacto</li><li>Prazo do regime do IBS e da CBS para micro e pequenas empresas acaba na sexta, dia 30</li></ul><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></description>
+      <content:encoded><![CDATA[<p><b>Rádio Polo, edição número dez: terça-feira, 27 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Empresas de navegação avaliam voltar à Justiça contra a Antaq por causa da sobretaxa da seca</li><li>Flextronics deve investir quase R$ 53 milhões para produzir rádios automotivos em Manaus, com 92 vagas</li><li>Suframa aprova projetos da Brudden, Interpack e Ferro Rebelo no Polo Industrial</li><li>Diebold Nixdorf investiu cerca de R$ 12 milhões na fábrica de Manaus, informou a Suframa após visita</li><li>Receita e Comitê Gestor do IBS criam equipe dedicada à Zona Franca na reforma tributária</li><li>Dólar chegou a R$ 5,60 e Bolsa teve circuit breaker; importadores sentem o impacto</li><li>Prazo do regime do IBS e da CBS para micro e pequenas empresas acaba na sexta, dia 30</li></ul><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-2026-10-27.mp3" length="9104194" type="audio/mpeg"/>
+      <itunes:duration>00:09:29</itunes:duration>
+
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/images/2026/10/capa-2026-10-27.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo nº 9: Segunda-feira, 26 de outubro de 2026</title>
       <guid isPermaLink="false">radio-polo-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 10:40:15 GMT</pubDate>
