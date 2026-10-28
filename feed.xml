@@ -17,6 +17,21 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Rádio Polo nº 11: Quarta-feira, 28 de outubro de 2026</title>
+      <guid isPermaLink="false">radio-polo-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 10:40:15 GMT</pubDate>
+      <description><![CDATA[<p><b>Rádio Polo, edição número onze: quarta-feira, 28 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Sunhope pretende investir R$ 162 milhões em Manaus; Codam deve aprovar os projetos nesta quinta, dia 29</li><li>Governo federal prepara concessão da Hidrovia Verde, de Manaus à foz do Amazonas; leilão previsto para 2027 depende de etapas</li><li>LATAM Cargo amplia em mais de 100 toneladas por semana a capacidade de carga aérea para Manaus</li><li>Yamaha e Cieam lançam série documental Amazônia hoje, às 18h30, no Teatro Amazonas</li><li>Governo prorroga por mais um mês a subvenção de R$ 2,12 por litro ao diesel</li></ul><p>Fontes nacionais: Correio do Brasil, Valor Econômico.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></description>
+      <content:encoded><![CDATA[<p><b>Rádio Polo, edição número onze: quarta-feira, 28 de outubro de 2026</b></p><p>O radiojornal do jornal O Polo, de segunda a sexta às 7h de Manaus (8h de Brasília). Nesta edição:</p><ul><li>Sunhope pretende investir R$ 162 milhões em Manaus; Codam deve aprovar os projetos nesta quinta, dia 29</li><li>Governo federal prepara concessão da Hidrovia Verde, de Manaus à foz do Amazonas; leilão previsto para 2027 depende de etapas</li><li>LATAM Cargo amplia em mais de 100 toneladas por semana a capacidade de carga aérea para Manaus</li><li>Yamaha e Cieam lançam série documental Amazônia hoje, às 18h30, no Teatro Amazonas</li><li>Governo prorroga por mais um mês a subvenção de R$ 2,12 por litro ao diesel</li></ul><p>Fontes nacionais: Correio do Brasil, Valor Econômico.</p><p>Notícias completas em <a href="https://www.jornalopolo.com.br">jornalopolo.com.br</a></p>]]></content:encoded>
+      <enclosure url="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/media/2026/10/radio-polo-2026-10-28.mp3" length="6695914" type="audio/mpeg"/>
+      <itunes:duration>00:06:58</itunes:duration>
+
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://storage.ghost.io/c/ee/22/ee22109b-9ce5-4834-97e4-3d381d4390d0/content/images/2026/10/capa-2026-10-28.jpg"/>
+      <link>https://www.jornalopolo.com.br</link>
+    </item>
+    <item>
       <title>Rádio Polo nº 10: Terça-feira, 27 de outubro de 2026</title>
       <guid isPermaLink="false">radio-polo-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 10:40:27 GMT</pubDate>
